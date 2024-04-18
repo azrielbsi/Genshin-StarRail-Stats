@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 17, 2024 19:25 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 18, 2024 08:00 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-17 08:57:16+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-18 08:56:25+08:00</b></td>
   </tr>
 </table>
 
@@ -5526,22 +5526,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-17 08:57:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-18 08:56:27+08:00</b></td>
   </tr>
 </table>
 
@@ -5559,7 +5559,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>33</b></td>
+    <td><b>35</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -5567,7 +5567,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>78</b></td>
+    <td><b>79</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5584,7 +5584,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>827</b> <code>(rate 143)</code></td>
+    <td align="center"><b>1177</b> <code>(rate 246)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5594,7 +5594,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>12</b> <code>(rate 1100)</code></td>
+    <td align="center"><b>20</b> <code>(rate 1900)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5605,9 +5605,9 @@
       Categories
     </td>
     <td>
-      Mail: <b>720</b> <code>(87%)</code><br />Adventure Rewards: <b>75</b>
-      <code>(9%)</code><br />Daily Activity: <b>20</b> <code>(2%)</code
-      ><br />Other: <b>12</b> <code>(2%)</code><br />Event: <b>0</b>
+      Mail: <b>720</b> <code>(61%)</code><br />Adventure Rewards: <b>425</b>
+      <code>(36%)</code><br />Other: <b>12</b> <code>(2%)</code><br />Daily
+      Activity: <b>20</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -5695,32 +5695,32 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3aad5f3a00facb20d3bf993da91e70cf.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5c9bb14941b3e4540ba52fca390471e2.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
+              ⭐⭐⭐⭐<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5ab0e57213aff6e90b27531d3089b178.png"
+                ,
+                height="25"
+              />
+              <code>+6</code><br />
               ⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f2beb5778e499962d5040b407c6542bd.png"
+              Knight's Silent Oath Ring<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/7001ddc57547532955c8ce9a959137d4.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐<br />
-              Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/b9574594e7c6ce5afa571877e3b76322.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐<br />
-              Thief's Steel Grappling Hook<br /><img
+              Knight's Solemn Breastplate<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5429cb753ee4c559a562c35d04e3bf79.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐<br />
               Thief's Meteor Boots<br />
             </td>
@@ -5733,14 +5733,14 @@
                 ,
                 height="25"
               />
-              <code>+2</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐<br />
               Herta's Space Station<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f12f4ffd7d45abd110ece0e8086ac7de.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+6</code><br />
               ⭐⭐⭐<br />
               Herta's Wandering Trek<br />
             </td>
@@ -5755,7 +5755,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+21</code></td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -5847,13 +5847,13 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/f2beb5778e499962d5040b407c6542bd.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3b80fec71f23a2aecd7c6e1a45966d8f.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐⭐<br />
-              Musketeer's Coarse Leather Gloves<br /><img
+              ⭐⭐⭐⭐<br />
+              Passerby's Roaming Dragon Bracer<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/875471082186d8a6d83db96cbec200e2.png"
                 ,
                 height="25"
@@ -5861,13 +5861,13 @@
               <code>+0</code><br />
               ⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/949e00a8ceb924f1fc00323b4fdd3461.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/33d5126a92c9a1ba4ee6a3505afcbbc3.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
+              ⭐⭐⭐⭐<br />
+              Passerby's Stygian Hiking Boots<br />
             </td>
           </tr>
         </table>
@@ -5880,7 +5880,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+20</code></td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -6255,7 +6255,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+33</code></td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -6340,13 +6340,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/3aad5f3a00facb20d3bf993da91e70cf.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/dec56511e988918bab947e3434a6df48.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
+              ⭐⭐⭐⭐<br />
+              Firesmith's Obsidian Goggles<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/a96dd1d6076271a0a4e7cc0d267aaad0.png"
                 ,
                 height="25"
@@ -6361,13 +6361,13 @@
               <code>+0</code><br />
               ⭐⭐⭐<br />
               Thief's Steel Grappling Hook<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/5429cb753ee4c559a562c35d04e3bf79.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ub53tb/d16c0d3f3bf7713f6af79e6e759c6440.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
-              ⭐⭐<br />
-              Thief's Meteor Boots<br />
+              ⭐⭐⭐<br />
+              Knight's Iron Boots of Order<br />
             </td>
           </tr>
         </table>
