@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 27, 2024 08:00 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 27, 2024 19:23 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>173</b></td>
+    <td align="center"><b>174</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>281</b></td>
+    <td align="center"><b>282</b></td>
   </tr>
   <tr>
     <td>
@@ -297,7 +297,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>65</b></td>
+    <td align="center"><b>66</b></td>
   </tr>
   <tr>
     <td>
@@ -347,7 +347,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>53</b></td>
+    <td align="center"><b>54</b></td>
   </tr>
   <tr>
     <td>
@@ -366,7 +366,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>3-2</b></td>
   </tr>
 </table>
 
@@ -672,7 +672,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/32/" width="80" />
+            <img src="https://progress-bar.dev/33/" width="80" />
           </td>
         </tr>
         <tr>
@@ -822,7 +822,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>537</b> <code>(rate -48)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -833,18 +833,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>254407</b> <code>(rate -57)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
-      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      Mail: <b>380</b> <code>(71%)</code><br />Events: <b>100</b>
+      <code>(19%)</code><br />Adventure: <b>45</b> <code>(8%)</code><br />Daily
+      Activity: <b>10</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      <b>2</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -5033,7 +5033,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>
