@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 27, 2024 19:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 28, 2024 08:06 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Almond Tofu</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-27 08:57:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:02:12+08:00</b></td>
   </tr>
 </table>
 
@@ -241,7 +241,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>289</b></td>
+    <td align="center"><b>291</b></td>
   </tr>
   <tr>
     <td>
@@ -822,7 +822,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>537</b> <code>(rate -48)</code></td>
+    <td align="center"><b>688</b> <code>(rate -33)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -833,18 +833,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>254407</b> <code>(rate -57)</code></td>
+    <td align="center"><b>331957</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>380</b> <code>(71%)</code><br />Events: <b>100</b>
-      <code>(19%)</code><br />Adventure: <b>45</b> <code>(8%)</code><br />Daily
-      Activity: <b>10</b> <code>(1%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>2</b> <code>(1%)</code><br />
+      Mail: <b>380</b> <code>(56%)</code><br />Events: <b>140</b>
+      <code>(21%)</code><br />Adventure: <b>65</b> <code>(9%)</code><br />Daily
+      Activity: <b>60</b> <code>(8%)</code><br />Quests: <b>40</b>
+      <code>(5%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>3</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -986,7 +986,7 @@
                 ,
                 height="25"
               />
-              <code>+4</code><br />
+              <code>+16</code><br />
               ⭐⭐⭐⭐<br />
               Gladiator's Triumphus<br />
             </td>
@@ -1267,7 +1267,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+6</code></td>
+            <td align="center"><code>+7</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -1617,7 +1617,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Witch's Ever-Burning Plume<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/9c39b5ea0b3749c76cf944a3a9ae7a45.png"
@@ -1631,7 +1631,7 @@
                 ,
                 height="25"
               />
-              <code>+17</code><br />
+              <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Witch's Heart Flames<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/572ae59cc01917dccad6b9f430f71f57.png"
@@ -2418,7 +2418,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>
@@ -5526,22 +5526,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>26</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>27</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/7cb0e487e051f177d3f41de8d4bbc521_1182531883532191221.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/40c4661295cacb4f584fd7787375d7ac_9144584527481294308.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Refined Aether</b>
+      <b>2 x Lost Crystal</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-27 08:57:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:02:12+08:00</b></td>
   </tr>
 </table>
 
