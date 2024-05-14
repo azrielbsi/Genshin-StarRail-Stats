@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 13, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 14, 2024 08:03 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-13 09:00:42+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-14 08:59:46+08:00</b></td>
   </tr>
 </table>
 
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>176</b></td>
+    <td align="center"><b>177</b></td>
   </tr>
   <tr>
     <td>
@@ -822,7 +822,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>20</b> <code>(rate -97)</code></td>
+    <td align="center"><b>40</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -833,14 +833,14 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>33450</b> <code>(rate -89)</code></td>
+    <td align="center"><b>44905</b> <code>(rate -86)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>20</b> <code>(100%)</code><br />Events: <b>0</b> <code>(0%)</code
+      Mail: <b>40</b> <code>(100%)</code><br />Events: <b>0</b> <code>(0%)</code
       ><br />Daily Activity: <b>0</b> <code>(0%)</code><br />Spiral Abyss:
       <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
       ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
@@ -1121,7 +1121,7 @@
                 ,
                 height="25"
               />
-              <code>+7</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐<br />
               Troupe's Dawnlight<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/7d2bed950108cf0531c8c8cf0cddfc90.png"
@@ -1176,11 +1176,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+50</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1275,7 +1275,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />2 x Berserker<br />2 x Gladiator's Finale<br />1 x
+              Artifacts<br />1 x Berserker<br />3 x Gladiator's Finale<br />1 x
               Retracing Bolide<br />
             </td>
             <td align="center">
@@ -1294,13 +1294,13 @@
               <code>+10</code><br />
               ⭐⭐⭐⭐<br />
               Gladiator's Destiny<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/9c39b5ea0b3749c76cf944a3a9ae7a45.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/4406772f6d464c0f2d69b69275717624.png"
                 ,
                 height="25"
               />
-              <code>+10</code><br />
-              ⭐⭐⭐⭐<br />
-              Berserker's Timepiece<br /><img
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Gladiator's Longing<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/b8edb769855e60652745ce84288fdb9f.png"
                 ,
                 height="25"
@@ -1339,11 +1339,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+50</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -1589,7 +1589,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -1665,11 +1665,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+20</code></td>
+            <td align="center"><code>+60</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
@@ -5526,22 +5526,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-13 09:00:43+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-14 08:59:47+08:00</b></td>
   </tr>
 </table>
 
