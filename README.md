@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 15, 2024 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 15, 2024 19:29 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>178</b></td>
+    <td align="center"><b>179</b></td>
   </tr>
   <tr>
     <td>
@@ -347,7 +347,7 @@
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>54</b></td>
+    <td align="center"><b>55</b></td>
   </tr>
   <tr>
     <td>
@@ -822,7 +822,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>104</b> <code>(rate -84)</code></td>
+    <td align="center"><b>114</b> <code>(rate -83)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -840,11 +840,11 @@
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Daily Activity: <b>60</b> <code>(58%)</code><br />Mail: <b>40</b>
-      <code>(39%)</code><br />Adventure: <b>4</b> <code>(3%)</code><br />Events:
-      <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Daily Activity: <b>60</b> <code>(53%)</code><br />Mail: <b>40</b>
+      <code>(35%)</code><br />Adventure: <b>14</b> <code>(12%)</code
+      ><br />Events: <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5559,15 +5559,15 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>40</b></td>
+    <td><b>41</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
-    <td><b>15</b></td>
+    <td><b>16</b></td>
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>91</b></td>
+    <td><b>92</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -5584,7 +5584,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>911</b> <code>(rate -80)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5594,7 +5594,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>1</b> <code>(rate -97)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -5605,11 +5605,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>0</b> <code>(0%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
-      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
-      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
-      ><br />Other: <b>0</b> <code>(0%)</code><br />
+      Mail: <b>680</b> <code>(74%)</code><br />Other: <b>201</b>
+      <code>(23%)</code><br />Adventure Rewards: <b>20</b> <code>(2%)</code
+      ><br />Daily Activity: <b>10</b> <code>(1%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5641,7 +5641,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7d971e691d5df1540569d12902c0fb89.png"
+            height="20"
+          />
+          Landau's Choice
+        </h3>
       </th>
     </tr>
     <tr>
@@ -5653,7 +5659,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7d971e691d5df1540569d12902c0fb89.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -5683,7 +5693,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fb7500c4106d5b0bb234bad6dd0199c7.png"
+                ,
+                height="25"
+              />
+              <code>+6</code><br />
+              ⭐⭐⭐⭐<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/8ae72612cf5822adda8c30a164707f12.png"
+                ,
+                height="25"
+              />
+              <code>+6</code><br />
+              ⭐⭐⭐<br />
+              Knight's Silent Oath Ring<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/04358e809d306fade3be0ff4dadc70cc.png"
+                ,
+                height="25"
+              />
+              <code>+6</code><br />
+              ⭐⭐⭐<br />
+              Knight's Solemn Breastplate<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/0db91da83d5dbfeff9bb8b065054ddc0.png"
+                ,
+                height="25"
+              />
+              <code>+6</code><br />
+              ⭐⭐<br />
+              Thief's Meteor Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/04e5eb4ec22ed9a0a7816ac3fcdf8605.png"
+                ,
+                height="25"
+              />
+              <code>+6</code><br />
+              ⭐⭐⭐<br />
+              Herta's Space Station<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/842d7554fa5ad699fe6d4aa5044e56c3.png"
+                ,
+                height="25"
+              />
+              <code>+6</code><br />
+              ⭐⭐⭐<br />
+              Herta's Wandering Trek<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -5691,15 +5751,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Landau's Choice</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6149,7 +6209,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -6591,6 +6651,91 @@
                 height="18"
               />
               wind
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code></code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+      height="18"
+    /><b> Misha </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+            height="20"
+          />
+          Misha
+        </h3>
+      </th>
+      <th align="center">
+        <h3><img src="" height="20" /></h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4ddff2259f477d099b74c5f3b038898f.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center"><img src="" /></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/ice-damage_type_icon_50.webp"
+                height="18"
+              />
+              ice
             </td>
           </tr>
           <tr>
