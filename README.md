@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 14, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 15, 2024 08:04 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -199,22 +199,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>5 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-14 08:59:46+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-15 09:00:23+08:00</b></td>
   </tr>
 </table>
 
@@ -333,7 +333,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>420</b></td>
+    <td align="center"><b>422</b></td>
   </tr>
   <tr>
     <td>
@@ -700,7 +700,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/52/" width="80" />
+            <img src="https://progress-bar.dev/53/" width="80" />
           </td>
         </tr>
         <tr>
@@ -822,7 +822,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>40</b> <code>(rate -94)</code></td>
+    <td align="center"><b>104</b> <code>(rate -84)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -833,17 +833,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>61925</b> <code>(rate -81)</code></td>
+    <td align="center"><b>125891</b> <code>(rate -62)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>40</b> <code>(100%)</code><br />Events: <b>0</b> <code>(0%)</code
-      ><br />Daily Activity: <b>0</b> <code>(0%)</code><br />Spiral Abyss:
-      <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
-      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
+      Daily Activity: <b>60</b> <code>(58%)</code><br />Mail: <b>40</b>
+      <code>(39%)</code><br />Adventure: <b>4</b> <code>(3%)</code><br />Events:
+      <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
       <code>(0%)</code><br />
     </td>
   </tr>
@@ -1100,7 +1100,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -1263,7 +1263,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Friendship</td>
@@ -1275,18 +1275,18 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Berserker<br />3 x Gladiator's Finale<br />1 x
-              Retracing Bolide<br />
+              Artifacts<br />1 x Wanderer's Troupe<br />3 x Gladiator's
+              Finale<br />1 x Retracing Bolide<br />
             </td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/fd9752f6595c2364f9c7fd02a1897b7e.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/bed1f2b13abc517ca54a92a05a03e7a7.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Berserker's Rose<br /><img
+              <code>+4</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Troupe's Dawnlight<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/d5763e2e9cce646a1c9868c10fc3dd1d.png"
                 ,
                 height="25"
@@ -1430,7 +1430,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+4</code></td>
+            <td align="center"><code>+5</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -5196,7 +5196,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5526,22 +5526,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>1 x Energy Drink (sugar-free)</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-14 08:59:47+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-15 09:00:06+08:00</b></td>
   </tr>
 </table>
 
