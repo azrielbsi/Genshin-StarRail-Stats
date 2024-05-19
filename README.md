@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>May 19, 2024 08:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 19, 2024 19:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -241,7 +241,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>297</b></td>
+    <td align="center"><b>298</b></td>
   </tr>
   <tr>
     <td>
@@ -252,7 +252,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>181</b></td>
+    <td align="center"><b>182</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>286</b></td>
+    <td align="center"><b>287</b></td>
   </tr>
   <tr>
     <td>
@@ -822,7 +822,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>637</b> <code>(rate -7)</code></td>
+    <td align="center"><b>782</b> <code>(rate 13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -833,18 +833,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>519456</b> <code>(rate 56)</code></td>
+    <td align="center"><b>610756</b> <code>(rate 83)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>300</b> <code>(48%)</code><br />Daily Activity: <b>120</b>
-      <code>(19%)</code><br />Adventure: <b>113</b> <code>(17%)</code
-      ><br />Mail: <b>100</b> <code>(15%)</code><br />Spiral Abyss: <b>0</b>
-      <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>4</b> <code>(1%)</code><br />
+      Events: <b>300</b> <code>(39%)</code><br />Daily Activity: <b>160</b>
+      <code>(21%)</code><br />Adventure: <b>118</b> <code>(15%)</code
+      ><br />Quests: <b>100</b> <code>(12%)</code><br />Mail: <b>100</b>
+      <code>(12%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>4</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
