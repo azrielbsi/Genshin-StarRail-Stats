@@ -1,10 +1,8 @@
 import argparse
 import asyncio
-import json
 import logging
 import os
 import pathlib
-import re
 import shutil
 from datetime import datetime
 from typing import List, Optional, Tuple
@@ -23,6 +21,8 @@ load_dotenv()
 # Constants
 DEFAULT_TEMPLATE_PATH = "src/template.html"
 DEFAULT_OUTPUT_PATH = "stats.html"
+GENSHIN = genshin.Game.GENSHIN
+HSR = genshin.Game.STARRAIL
 
 class GenshinRes:
     user: genshin.models.FullGenshinUserStats
@@ -59,12 +59,12 @@ class AnimeGame(genshin.Client):
         self.args = args
         self.codes = codes
         _c = self.args.cookies or os.getenv("COOKIES")
-        cookies = json.loads(_c)
-        super().__init__(cookies, debug=False, game="genshin", lang=self.args.lang)
+        super().__init__(_c, debug=False, game=GENSHIN, lang=self.args.lang)
 
     async def _claim_daily(self, game: Optional[genshin.Game] = None) -> Tuple[
         genshin.models.ClaimedDailyReward, genshin.models.DailyRewardInfo
     ]:
+        logger.debug("Claiming daily reward")
         """Claim the daily reward and retrieve reward information."""
         try:
             await self.claim_daily_reward(game=game, lang=self.args.lang, reward=False)
@@ -76,13 +76,14 @@ class AnimeGame(genshin.Client):
         return reward, reward_info
 
     async def get_genshin_res(self) -> GenshinRes:
+        logger.debug("Executing get_genshin_res")
         user = await self.get_full_genshin_user(0, lang=self.args.lang)
         abyss = user.abyss.current if user.abyss.current.floors else user.abyss.previous
         diary = await self.get_genshin_diary()
         reward, reward_info = await self._claim_daily()
         notes = await self.get_genshin_notes()
         codes = self.codes.get_codes()
-        await self.codes.redeem_codes(self, codes)
+        await self.codes.redeem_codes(self, codes, GENSHIN)
         return GenshinRes(
             user=user,
             abyss=abyss,
@@ -97,10 +98,10 @@ class AnimeGame(genshin.Client):
         diary = await self.get_starrail_diary()
         forgotten_hall = await self.get_starrail_challenge()
         characters = await self.get_starrail_characters()
-        reward, reward_info = await self._claim_daily("hkrpg")
+        reward, reward_info = await self._claim_daily(HSR)
         notes = await self.get_starrail_notes()
-        codes = self.codes.get_codes("hkrpg")
-        await self.codes.redeem_codes(self, codes, "hkrpg")
+        codes = self.codes.get_codes(HSR)
+        await self.codes.redeem_codes(self, codes, HSR)
         return HsrRes(
             user=user,
             characters=characters.avatar_list,
