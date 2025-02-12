@@ -1,6 +1,6 @@
 genshin==1.7.3
 Jinja2
-pydantic==2.*
+pydantic
 python-dotenv
 pytz
 requests
