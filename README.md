@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 12, 2025 18:15 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 12, 2025 19:34 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -1459,11 +1459,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8c1lh/81a6f705becb3834edba155415fcdb1b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8c1lh/d32d7dd30acd04737d8167c9e4a30520.png"
             ,
             height="20"
           />
-          The Stringless
+          Skyward Harp
         </h3>
       </th>
     </tr>
@@ -1480,7 +1480,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8c1lh/81a6f705becb3834edba155415fcdb1b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u8c1lh/d32d7dd30acd04737d8167c9e4a30520.png"
             ,
             height="256"
           />
@@ -1531,15 +1531,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Stringless</td>
+            <td align="center">Skyward Harp</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+60</code></td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
