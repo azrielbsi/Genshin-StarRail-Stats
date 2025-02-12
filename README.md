@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 12, 2025 16:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 12, 2025 16:40 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -5591,6 +5591,10 @@
             <td align="center">Dance! Dance! Dance!</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -5714,6 +5718,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Multiplication</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -5841,6 +5849,10 @@
             <td align="center">Sagacity</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+35</code></td>
           </tr>
@@ -5964,6 +5976,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Mediation</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -6091,6 +6107,10 @@
             <td align="center">Adversarial</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+40</code></td>
           </tr>
@@ -6214,6 +6234,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Amber</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -6341,6 +6365,10 @@
             <td align="center">Collapsing Sky</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+1</code></td>
           </tr>
@@ -6373,7 +6401,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/c3f619fc9f1255b657c6e078fa65c548.png"
+            height="20"
+          />
+          Swordplay
+        </h3>
       </th>
     </tr>
     <tr>
@@ -6385,7 +6419,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/c3f619fc9f1255b657c6e078fa65c548.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -6423,15 +6461,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Swordplay</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+20</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6458,7 +6500,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/a1579da9680ea13124d20ff07620a888.png"
+            height="20"
+          />
+          Quid Pro Quo
+        </h3>
       </th>
     </tr>
     <tr>
@@ -6470,7 +6518,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/a1579da9680ea13124d20ff07620a888.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -6508,15 +6560,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Quid Pro Quo</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6543,7 +6599,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/c33a95f6f8641a63317c1571d70b800d.png"
+            height="20"
+          />
+          Memories of the Past
+        </h3>
       </th>
     </tr>
     <tr>
@@ -6555,7 +6617,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/c33a95f6f8641a63317c1571d70b800d.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -6593,15 +6659,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Memories of the Past</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6628,7 +6698,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/8d0338b870adcb20b1b34f8d8734f099.png"
+            height="20"
+          />
+          Collapsing Sky
+        </h3>
       </th>
     </tr>
     <tr>
@@ -6640,7 +6716,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/8d0338b870adcb20b1b34f8d8734f099.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -6678,15 +6758,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Collapsing Sky</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+31</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6713,7 +6797,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/985d4398c97c7747f23e61f69c98a032.png"
+            height="20"
+          />
+          Indelible Promise
+        </h3>
       </th>
     </tr>
     <tr>
@@ -6725,7 +6815,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/985d4398c97c7747f23e61f69c98a032.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -6763,15 +6857,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Indelible Promise</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6798,7 +6896,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/ec5c3296ce12cd0c304d3debb94eec3e.png"
+            height="20"
+          />
+          Hidden Shadow
+        </h3>
       </th>
     </tr>
     <tr>
@@ -6810,7 +6914,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/ec5c3296ce12cd0c304d3debb94eec3e.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -6848,15 +6956,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Hidden Shadow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -6976,6 +7088,10 @@
             <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
             <td>Level</td>
             <td align="center"><code>+16</code></td>
           </tr>
@@ -7008,7 +7124,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/ec5c3296ce12cd0c304d3debb94eec3e.png"
+            height="20"
+          />
+          Hidden Shadow
+        </h3>
       </th>
     </tr>
     <tr>
@@ -7020,7 +7142,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_ue2ezc/ec5c3296ce12cd0c304d3debb94eec3e.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -7058,15 +7184,19 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Hidden Shadow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -7154,6 +7284,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Void</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -7279,6 +7413,10 @@
           <tr>
             <td>Name</td>
             <td align="center">Sagacity</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
