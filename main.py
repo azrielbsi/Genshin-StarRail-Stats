@@ -28,6 +28,7 @@ HSR = genshin.Game.STARRAIL
 
 class GenshinRes:
     user: genshin.models.FullGenshinUserStats
+    characters: List[genshin.models.StarRailDetailCharacter]
     abyss: genshin.models.SpiralAbyss
     diary: genshin.models.Diary
     reward: genshin.models.ClaimedDailyReward
@@ -115,6 +116,7 @@ class AnimeGame(genshin.Client):
             await self.codes.redeem_codes(self, HSR)
             return HsrRes(
                 user=user,
+                characters=characters.avatar_list,
                 diary=diary,
                 forgotten_hall=forgotten_hall,
                 reward=reward,
