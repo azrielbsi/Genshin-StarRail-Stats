@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 25, 2025 08:21 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 25, 2025 19:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>239</b></td>
+    <td align="center"><b>240</b></td>
   </tr>
   <tr>
     <td>
@@ -343,28 +343,28 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>537</b></td>
+    <td align="center"><b>560</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>509</b></td>
+    <td align="center"><b>514</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>154</b></td>
+    <td align="center"><b>156</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>56</b></td>
+    <td align="center"><b>57</b></td>
   </tr>
   <tr>
     <td>
@@ -801,7 +801,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/64/" width="80" />
+            <img src="https://progress-bar.xyz/66/" width="80" />
           </td>
         </tr>
         <tr>
@@ -829,7 +829,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/80/" width="80" />
+            <img src="https://progress-bar.xyz/84/" width="80" />
           </td>
         </tr>
         <tr>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5787</b> <code>(rate 1069)</code></td>
+    <td align="center"><b>5944</b> <code>(rate 1100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,16 +948,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3056210</b> <code>(rate 1613)</code></td>
+    <td align="center"><b>3130605</b> <code>(rate 1654)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2390</b> <code>(42%)</code><br />Adventure: <b>1180</b>
-      <code>(21%)</code><br />Quests: <b>820</b> <code>(14%)</code><br />Daily
-      Activity: <b>670</b> <code>(11%)</code><br />Events: <b>480</b>
+      Mail: <b>2390</b> <code>(41%)</code><br />Adventure: <b>1297</b>
+      <code>(22%)</code><br />Quests: <b>820</b> <code>(14%)</code><br />Daily
+      Activity: <b>710</b> <code>(11%)</code><br />Events: <b>480</b>
       <code>(8%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
       <b>247</b> <code>(4%)</code><br />
