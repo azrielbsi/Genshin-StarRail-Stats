@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 26, 2025 08:20 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Feb 26, 2025 19:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>376</b></td>
+    <td align="center"><b>379</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>240</b></td>
+    <td align="center"><b>241</b></td>
   </tr>
   <tr>
     <td>
@@ -269,13 +269,13 @@
       />
       Characters
     </td>
-    <td align="center"><b>39</b></td>
+    <td align="center"><b>40</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>373</b></td>
+    <td align="center"><b>374</b></td>
   </tr>
   <tr>
     <td>
@@ -303,7 +303,7 @@
     <td>
       <img src="./images/logo/Electroculus.png" , height="18" /> Electroculus
     </td>
-    <td align="center"><b>70</b></td>
+    <td align="center"><b>71</b></td>
   </tr>
   <tr>
     <td>
@@ -343,35 +343,35 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>560</b></td>
+    <td align="center"><b>567</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>514</b></td>
+    <td align="center"><b>517</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>156</b></td>
+    <td align="center"><b>157</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Luxurious-Chest.png" , height="18" /> Luxurious
       Chests Opened
     </td>
-    <td align="center"><b>57</b></td>
+    <td align="center"><b>58</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>13</b></td>
   </tr>
   <tr>
     <td>
@@ -383,7 +383,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>3-3</b></td>
+    <td align="center"><b>4-3</b></td>
   </tr>
   <tr>
     <td>
@@ -787,7 +787,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/33/" width="80" />
+            <img src="https://progress-bar.xyz/34/" width="80" />
           </td>
         </tr>
         <tr>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>5944</b> <code>(rate 1100)</code></td>
+    <td align="center"><b>6519</b> <code>(rate 1216)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3130605</b> <code>(rate 1654)</code></td>
+    <td align="center"><b>3349239</b> <code>(rate 1777)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2390</b> <code>(41%)</code><br />Adventure: <b>1297</b>
-      <code>(22%)</code><br />Quests: <b>820</b> <code>(14%)</code><br />Daily
-      Activity: <b>710</b> <code>(11%)</code><br />Events: <b>480</b>
-      <code>(8%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      Mail: <b>2410</b> <code>(37%)</code><br />Adventure: <b>1361</b>
+      <code>(21%)</code><br />Quests: <b>870</b> <code>(14%)</code><br />Daily
+      Activity: <b>750</b> <code>(12%)</code><br />Events: <b>480</b>
+      <code>(7%)</code><br />Spiral Abyss: <b>400</b> <code>(6%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>247</b> <code>(4%)</code><br />
+      <b>248</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -4992,6 +4992,121 @@
           <tr>
             <td>Rarity</td>
             <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+      ,
+      height="18"
+    /><b> Collei</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+            ,
+            height="20"
+          />
+          Collei
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/ba05989da21b6756c25579aeec9b4dc5.png"
+            ,
+            height="20"
+          />
+          Hunter's Bow
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Collei_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_ud6bmh/ba05989da21b6756c25579aeec9b4dc5.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/dendro_35.webp"
+                ,
+                height="18"
+              />
+              Dendro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Hunter's Bow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
           </tr>
           <tr>
             <td>Level</td>
