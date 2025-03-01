@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 01, 2025 08:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 01, 2025 19:32 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>379</b></td>
+    <td align="center"><b>381</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>241</b></td>
+    <td align="center"><b>242</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>374</b></td>
+    <td align="center"><b>376</b></td>
   </tr>
   <tr>
     <td>
@@ -336,7 +336,7 @@
       />
       Pyroculus
     </td>
-    <td align="center"><b>18</b></td>
+    <td align="center"><b>19</b></td>
   </tr>
   <tr>
     <td>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>125</b> <code>(rate -98)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>173299</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
-      <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code
-      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Daily Activity: <b>60</b> <code>(48%)</code><br />Quests: <b>30</b>
+      <code>(24%)</code><br />Adventure: <b>30</b> <code>(24%)</code
+      ><br />Events: <b>0</b> <code>(0%)</code><br />Spiral Abyss: <b>0</b>
+      <code>(0%)</code><br />Imaginarium Theater: <b>0</b> <code>(0%)</code
+      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>5</b>
+      <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -1287,7 +1287,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+8</code></td>
+            <td align="center"><code>+9</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
