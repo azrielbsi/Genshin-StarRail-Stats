@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Feb 28, 2025 19:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 01, 2025 08:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,7 +205,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -220,7 +220,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-28 17:21:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-01 17:26:10+08:00</b></td>
   </tr>
 </table>
 
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>6519</b> <code>(rate 1216)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>3349239</b> <code>(rate 1777)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>2410</b> <code>(37%)</code><br />Adventure: <b>1361</b>
-      <code>(21%)</code><br />Quests: <b>870</b> <code>(14%)</code><br />Daily
-      Activity: <b>750</b> <code>(12%)</code><br />Events: <b>480</b>
-      <code>(7%)</code><br />Spiral Abyss: <b>400</b> <code>(6%)</code
-      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>248</b> <code>(3%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
+      <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code
+      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
+      <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -5622,22 +5622,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-02-28 17:21:30+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-01 17:26:10+08:00</b></td>
   </tr>
 </table>
 
