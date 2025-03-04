@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 04, 2025 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 04, 2025 19:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>381</b></td>
+    <td align="center"><b>382</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>243</b></td>
+    <td align="center"><b>244</b></td>
   </tr>
   <tr>
     <td>
@@ -371,7 +371,7 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>13</b></td>
+    <td align="center"><b>16</b></td>
   </tr>
   <tr>
     <td>
@@ -787,7 +787,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/34/" width="80" />
+            <img src="https://progress-bar.xyz/35/" width="80" />
           </td>
         </tr>
         <tr>
