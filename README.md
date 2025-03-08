@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 08, 2025 08:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 08, 2025 19:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>394</b></td>
+    <td align="center"><b>395</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>385</b></td>
+    <td align="center"><b>386</b></td>
   </tr>
   <tr>
     <td>
@@ -314,7 +314,7 @@
       />
       Dendroculus
     </td>
-    <td align="center"><b>28</b></td>
+    <td align="center"><b>31</b></td>
   </tr>
   <tr>
     <td>
@@ -343,21 +343,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>584</b></td>
+    <td align="center"><b>585</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>528</b></td>
+    <td align="center"><b>529</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>161</b></td>
+    <td align="center"><b>162</b></td>
   </tr>
   <tr>
     <td>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1114</b> <code>(rate -82)</code></td>
+    <td align="center"><b>1167</b> <code>(rate -82)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>940893</b> <code>(rate -71)</code></td>
+    <td align="center"><b>962032</b> <code>(rate -71)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Quests: <b>410</b> <code>(37%)</code><br />Adventure: <b>334</b>
-      <code>(30%)</code><br />Daily Activity: <b>290</b> <code>(27%)</code
-      ><br />Events: <b>40</b> <code>(4%)</code><br />Mail: <b>20</b>
+      Quests: <b>410</b> <code>(36%)</code><br />Adventure: <b>356</b>
+      <code>(31%)</code><br />Daily Activity: <b>320</b> <code>(28%)</code
+      ><br />Events: <b>40</b> <code>(3%)</code><br />Mail: <b>20</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>20</b> <code>(1%)</code><br />
+      <b>21</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
