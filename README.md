@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 07, 2025 19:35 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 08, 2025 08:06 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>7</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-07 09:23:01+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-08 09:06:29+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>387</b></td>
+    <td align="center"><b>394</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>246</b></td>
+    <td align="center"><b>248</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>382</b></td>
+    <td align="center"><b>385</b></td>
   </tr>
   <tr>
     <td>
@@ -314,7 +314,7 @@
       />
       Dendroculus
     </td>
-    <td align="center"><b>24</b></td>
+    <td align="center"><b>28</b></td>
   </tr>
   <tr>
     <td>
@@ -343,21 +343,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>577</b></td>
+    <td align="center"><b>584</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>524</b></td>
+    <td align="center"><b>528</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>159</b></td>
+    <td align="center"><b>161</b></td>
   </tr>
   <tr>
     <td>
@@ -731,7 +731,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/10/" width="80" />
+            <img src="https://progress-bar.xyz/11/" width="80" />
           </td>
         </tr>
         <tr>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>818</b> <code>(rate -87)</code></td>
+    <td align="center"><b>1114</b> <code>(rate -82)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>682660</b> <code>(rate -79)</code></td>
+    <td align="center"><b>940893</b> <code>(rate -71)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Quests: <b>290</b> <code>(36%)</code><br />Daily Activity: <b>230</b>
-      <code>(29%)</code><br />Adventure: <b>225</b> <code>(28%)</code
+      Quests: <b>410</b> <code>(37%)</code><br />Adventure: <b>334</b>
+      <code>(30%)</code><br />Daily Activity: <b>290</b> <code>(27%)</code
       ><br />Events: <b>40</b> <code>(4%)</code><br />Mail: <b>20</b>
-      <code>(2%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>13</b> <code>(1%)</code><br />
+      <b>20</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -3169,7 +3169,7 @@
 <details>
   <summary align="center">
     <img
-      src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+      src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
       ,
       height="18"
     /><b> Traveler</b>
@@ -3180,7 +3180,7 @@
       <th>
         <h3 align="center">
           <img
-            src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+            src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
             ,
             height="20"
           />
@@ -3229,11 +3229,11 @@
             <td>Element</td>
             <td align="center">
               <img
-                src="https://genshin.honeyhunterworld.com/img/icons/element/geo_35.webp"
+                src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
                 ,
                 height="18"
               />
-              Geo
+              Hydro
             </td>
           </tr>
           <tr>
@@ -3246,7 +3246,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>0</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5622,22 +5622,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>7</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Condensed Aether</b>
+      <b>1 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-07 09:23:01+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-08 09:06:29+08:00</b></td>
   </tr>
 </table>
 
