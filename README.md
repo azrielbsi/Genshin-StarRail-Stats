@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 09, 2025 19:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 10, 2025 08:10 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-09 09:12:12+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-10 09:10:03+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>396</b></td>
+    <td align="center"><b>397</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>248</b></td>
+    <td align="center"><b>249</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>386</b></td>
+    <td align="center"><b>388</b></td>
   </tr>
   <tr>
     <td>
@@ -314,7 +314,7 @@
       />
       Dendroculus
     </td>
-    <td align="center"><b>32</b></td>
+    <td align="center"><b>34</b></td>
   </tr>
   <tr>
     <td>
@@ -343,21 +343,21 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>585</b></td>
+    <td align="center"><b>589</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>529</b></td>
+    <td align="center"><b>530</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Precious.png" , height="18" /> Precious Chests
       Opened
     </td>
-    <td align="center"><b>162</b></td>
+    <td align="center"><b>163</b></td>
   </tr>
   <tr>
     <td>
@@ -371,7 +371,7 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>20</b></td>
+    <td align="center"><b>21</b></td>
   </tr>
   <tr>
     <td>
@@ -731,7 +731,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/12/" width="80" />
+            <img src="https://progress-bar.xyz/13/" width="80" />
           </td>
         </tr>
         <tr>
@@ -806,7 +806,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td align="center">5</td>
+          <td align="center">6</td>
         </tr>
       </table>
     </td>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1243</b> <code>(rate -80)</code></td>
+    <td align="center"><b>1319</b> <code>(rate -79)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1017357</b> <code>(rate -69)</code></td>
+    <td align="center"><b>1039917</b> <code>(rate -68)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Quests: <b>470</b> <code>(38%)</code><br />Adventure: <b>361</b>
-      <code>(30%)</code><br />Daily Activity: <b>330</b> <code>(27%)</code
+      Quests: <b>470</b> <code>(36%)</code><br />Adventure: <b>405</b>
+      <code>(31%)</code><br />Daily Activity: <b>360</b> <code>(28%)</code
       ><br />Events: <b>40</b> <code>(3%)</code><br />Mail: <b>20</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>22</b> <code>(1%)</code><br />
+      <b>24</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -5622,22 +5622,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-09 09:12:12+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-10 09:10:02+08:00</b></td>
   </tr>
 </table>
 
