@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 14, 2025 08:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 14, 2025 19:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>398</b></td>
+    <td align="center"><b>399</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>250</b></td>
+    <td align="center"><b>251</b></td>
   </tr>
   <tr>
     <td>
@@ -275,7 +275,7 @@
     <td>
       <img src="./images/logo/waypoint.webp" , height="18" /> Waypoints Unlocked
     </td>
-    <td align="center"><b>388</b></td>
+    <td align="center"><b>391</b></td>
   </tr>
   <tr>
     <td>
@@ -343,7 +343,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>590</b></td>
+    <td align="center"><b>591</b></td>
   </tr>
   <tr>
     <td>
@@ -371,7 +371,7 @@
       <img src="./images/logo/remarkable.png" , height="18" /> Remarkable Chests
       Opened
     </td>
-    <td align="center"><b>24</b></td>
+    <td align="center"><b>25</b></td>
   </tr>
   <tr>
     <td>
@@ -787,7 +787,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.xyz/35/" width="80" />
+            <img src="https://progress-bar.xyz/36/" width="80" />
           </td>
         </tr>
         <tr>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1411</b> <code>(rate -78)</code></td>
+    <td align="center"><b>1521</b> <code>(rate -76)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1405104</b> <code>(rate -58)</code></td>
+    <td align="center"><b>1468905</b> <code>(rate -56)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Quests: <b>470</b> <code>(34%)</code><br />Daily Activity: <b>420</b>
-      <code>(30%)</code><br />Adventure: <b>417</b> <code>(30%)</code
-      ><br />Events: <b>40</b> <code>(3%)</code><br />Mail: <b>40</b>
+      Quests: <b>510</b> <code>(34%)</code><br />Daily Activity: <b>460</b>
+      <code>(31%)</code><br />Adventure: <b>444</b> <code>(30%)</code
+      ><br />Events: <b>40</b> <code>(2%)</code><br />Mail: <b>40</b>
       <code>(2%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>24</b> <code>(1%)</code><br />
+      <b>27</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
