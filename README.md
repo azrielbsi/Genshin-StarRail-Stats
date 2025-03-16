@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 15, 2025 19:32 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 16, 2025 08:35 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-15 09:21:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-16 09:35:37+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>399</b></td>
+    <td align="center"><b>400</b></td>
   </tr>
   <tr>
     <td>
@@ -383,7 +383,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>4-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
   <tr>
     <td>
@@ -924,6 +924,78 @@
   </tr>
 </table>
 <h2 align="center">
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+  Spiral Abyss
+  <img
+    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
+    ,
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
+      <b>104</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>4-3</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
+      <b>6</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>6</b>
+    </td>
+    <td align="center">
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>0</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🕐 Start Time: <b>2025-02-15 20:00:00+08:00</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      🕛 End Time: <b>2025-03-15 19:59:59+08:00</b>
+    </td>
+  </tr>
+  <tr>
+    <td>Most_Played</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most_Kills</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Strongest_Strike</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most_Damage_Taken</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most_Bursts_Used</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Most_Skills_Used</td>
+    <td></td>
+  </tr>
+</table>
+<h2 align="center">
   <img src="./images/logo/genshin_diary.png" height="20" /> Diary
   <img src="./images/logo/genshin_diary.png" height="20" />
 </h2>
@@ -937,7 +1009,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1521</b> <code>(rate -76)</code></td>
+    <td align="center"><b>1942</b> <code>(rate -70)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +1020,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1468905</b> <code>(rate -56)</code></td>
+    <td align="center"><b>1581205</b> <code>(rate -52)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Quests: <b>510</b> <code>(34%)</code><br />Daily Activity: <b>460</b>
-      <code>(31%)</code><br />Adventure: <b>444</b> <code>(30%)</code
-      ><br />Events: <b>40</b> <code>(2%)</code><br />Mail: <b>40</b>
+      Quests: <b>560</b> <code>(29%)</code><br />Daily Activity: <b>500</b>
+      <code>(26%)</code><br />Adventure: <b>454</b> <code>(24%)</code
+      ><br />Mail: <b>340</b> <code>(17%)</code><br />Events: <b>40</b>
       <code>(2%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
-      <b>27</b> <code>(1%)</code><br />
+      <b>48</b> <code>(2%)</code><br />
     </td>
   </tr>
 </table>
@@ -4626,7 +4698,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -5622,22 +5694,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Energy Drink (sugar-free)</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-03-15 09:21:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-03-16 09:35:37+08:00</b></td>
   </tr>
 </table>
 
