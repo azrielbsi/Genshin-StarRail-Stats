@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Mar 24, 2025 08:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Mar 24, 2025 19:38 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>253</b></td>
+    <td align="center"><b>254</b></td>
   </tr>
   <tr>
     <td>
@@ -350,7 +350,7 @@
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>530</b></td>
+    <td align="center"><b>531</b></td>
   </tr>
   <tr>
     <td>
@@ -1009,7 +1009,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2182</b> <code>(rate -66)</code></td>
+    <td align="center"><b>2247</b> <code>(rate -65)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1020,16 +1020,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1871970</b> <code>(rate -44)</code></td>
+    <td align="center"><b>1949055</b> <code>(rate -41)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Quests: <b>620</b> <code>(29%)</code><br />Daily Activity: <b>560</b>
-      <code>(26%)</code><br />Adventure: <b>494</b> <code>(23%)</code
-      ><br />Mail: <b>420</b> <code>(19%)</code><br />Events: <b>40</b>
+      Daily Activity: <b>620</b> <code>(28%)</code><br />Quests: <b>620</b>
+      <code>(28%)</code><br />Adventure: <b>499</b> <code>(23%)</code
+      ><br />Mail: <b>420</b> <code>(18%)</code><br />Events: <b>40</b>
       <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
       ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
       <b>48</b> <code>(2%)</code><br />
