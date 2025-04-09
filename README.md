@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 08, 2025 19:38 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 09, 2025 08:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-08 09:25:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-09 09:25:54+08:00</b></td>
   </tr>
 </table>
 
@@ -5694,22 +5694,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Lost Gold Fragment</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-04-08 09:25:19+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-04-09 09:25:54+08:00</b></td>
   </tr>
 </table>
 
@@ -5815,7 +5815,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/726b38547c995cdaaa22d81046d3feb7.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/bb3a6f0cd92a0ba2995f3916bc7f998c.png"
             height="20"
           />
           Dance! Dance! Dance!
@@ -5826,14 +5826,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/7b378423335afee88feecbfda1dd4c2c.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3260c8c7e8e75fc68f7e468d1844569e.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/726b38547c995cdaaa22d81046d3feb7.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/bb3a6f0cd92a0ba2995f3916bc7f998c.png"
           />
         </p>
       </td>
@@ -5867,21 +5867,21 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/b01ff7e8ae1af6d9da51ad4485205995.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/520ad17949426a14072936ec8ff29d22.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Passerby's Rejuvenated Wooden Hairstick<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/cac60f55b33a136d502272b6fb17efb3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/172c4fb6027e5a502ed027045996dc75.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Thief's Gloves With Prints<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/ea50ddb0b4253df23e3b2f7803403de5.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2c49038a52851a82e8b668e9b5a6ad80.png"
                 ,
                 height="25"
               />
@@ -5937,7 +5937,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/459ad017e7f517aa0d04891be947dd6d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9561ba3ee34b93543559fd7541a7e1b9.png"
             height="20"
           />
           Multiplication
@@ -5948,14 +5948,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/18b8f69c79be28d7b7a4f9c9523b5b8c.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/878e5e1e3fb6467df093c1b01bb61244.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/459ad017e7f517aa0d04891be947dd6d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9561ba3ee34b93543559fd7541a7e1b9.png"
           />
         </p>
       </td>
@@ -5989,28 +5989,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/b70543cd5bfeecfc3736adf0f2c23730.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/be681963ddca5e8a4561c384eb897e78.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/52f1b3069176bc21529f6a13804d8df4.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/e292c4278cca41a6aee48c1e46ee89eb.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Passerby's Roaming Dragon Bracer<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/2c447dad7c29c33bb3af4ebbce1a8528.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2532faf14864675169f4c96684c3bf09.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/8beb54a961c032baa3b1ae233aff17e7.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/64f9a35775a32357a68765e1ff377f08.png"
                 ,
                 height="25"
               />
@@ -6066,7 +6066,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/24697d94cb31b63269fe1706e65d28fa.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2576f9320d4a11c89eb82f05424678dc.png"
             height="20"
           />
           Sagacity
@@ -6077,14 +6077,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/7c52f12fede5bb7355da5ae6fe6354c8.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/83a900f155d46428dd357e1482e635d3.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/24697d94cb31b63269fe1706e65d28fa.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2576f9320d4a11c89eb82f05424678dc.png"
           />
         </p>
       </td>
@@ -6118,28 +6118,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/b70543cd5bfeecfc3736adf0f2c23730.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/be681963ddca5e8a4561c384eb897e78.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/0a7f16ae71a3d84ceb0c8982bf6ece1f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/01ada34f19b7ce1d425a10f2c83e3cf7.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/2c447dad7c29c33bb3af4ebbce1a8528.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2532faf14864675169f4c96684c3bf09.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/e726ae4d6ca4bef83eb1c9060f5224dc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/8711a9954725e807ed73a6d1eedc8c6f.png"
                 ,
                 height="25"
               />
@@ -6195,7 +6195,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/425b8f73c2158af9efd572ecb23e99dd.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/288bffceac47f8a5b59b0defb49e2b64.png"
             height="20"
           />
           Mediation
@@ -6206,14 +6206,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/a35c2942eeaad3fab3a215b3170f0840.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ea1b17f498e58e9508a28183405c3943.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/425b8f73c2158af9efd572ecb23e99dd.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/288bffceac47f8a5b59b0defb49e2b64.png"
           />
         </p>
       </td>
@@ -6247,28 +6247,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/a649e2868144025753f3e348885cbf65.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/024b3f81c61d0092e8a390e02afa9702.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Thief's Myriad-Faced Mask<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/0a7f16ae71a3d84ceb0c8982bf6ece1f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/01ada34f19b7ce1d425a10f2c83e3cf7.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/32b6d7b568300d046ca42dd50fe1231f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d8f908a0e018d3afb85d439afd33542a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐<br />
               Thief's Steel Grappling Hook<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/e726ae4d6ca4bef83eb1c9060f5224dc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/8711a9954725e807ed73a6d1eedc8c6f.png"
                 ,
                 height="25"
               />
@@ -6324,7 +6324,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/49e1e3990e2f1de747d8bf71954892e0.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/309776a65b1f4ac94acbad258ca3dd8e.png"
             height="20"
           />
           Adversarial
@@ -6335,14 +6335,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/d60eba61e8f3a8e622cbb285c59a1eb3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/4e3fea06cb5c1424423b4ebb4b899120.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/49e1e3990e2f1de747d8bf71954892e0.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/309776a65b1f4ac94acbad258ca3dd8e.png"
           />
         </p>
       </td>
@@ -6376,28 +6376,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/a649e2868144025753f3e348885cbf65.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/024b3f81c61d0092e8a390e02afa9702.png"
                 ,
                 height="25"
               />
               <code>+9</code><br />
               ⭐⭐⭐<br />
               Thief's Myriad-Faced Mask<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/52f1b3069176bc21529f6a13804d8df4.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/e292c4278cca41a6aee48c1e46ee89eb.png"
                 ,
                 height="25"
               />
               <code>+9</code><br />
               ⭐⭐⭐<br />
               Passerby's Roaming Dragon Bracer<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/2c447dad7c29c33bb3af4ebbce1a8528.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2532faf14864675169f4c96684c3bf09.png"
                 ,
                 height="25"
               />
               <code>+5</code><br />
               ⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/e726ae4d6ca4bef83eb1c9060f5224dc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/8711a9954725e807ed73a6d1eedc8c6f.png"
                 ,
                 height="25"
               />
@@ -6453,7 +6453,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/10b62211efda2be1cfec4f11b9cadf92.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/cf759085e6397bc4eb663374f32943f1.png"
             height="20"
           />
           Amber
@@ -6464,14 +6464,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/9831ebe116b11f1f66d6a29ae12c56ff.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/144d704217c276bc6976ee0279285fb4.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/10b62211efda2be1cfec4f11b9cadf92.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/cf759085e6397bc4eb663374f32943f1.png"
           />
         </p>
       </td>
@@ -6505,28 +6505,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/1e4fac7e5dbb1242e60b26443c1f19ed.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/181da037bee6e5f05be741e4a2fc19b5.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐⭐<br />
               Firesmith's Obsidian Goggles<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/cac60f55b33a136d502272b6fb17efb3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/172c4fb6027e5a502ed027045996dc75.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Thief's Gloves With Prints<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/32b6d7b568300d046ca42dd50fe1231f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d8f908a0e018d3afb85d439afd33542a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐<br />
               Thief's Steel Grappling Hook<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/098f3d4d711f1e19015167568cf50e74.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a69d187956f5b1d90ef391befcac9b3f.png"
                 ,
                 height="25"
               />
@@ -6582,7 +6582,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/5d8a86cf6061d3be5a4ec1ac5541e432.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ac205d141aff8177dfcbc52227a69420.png"
             height="20"
           />
           Collapsing Sky
@@ -6593,14 +6593,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/26f0b35638a4318bd95dcaa78cb7aa15.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f047b2c8dfda74e5e26efafbfe4d6851.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/5d8a86cf6061d3be5a4ec1ac5541e432.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ac205d141aff8177dfcbc52227a69420.png"
           />
         </p>
       </td>
@@ -6634,28 +6634,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/b70543cd5bfeecfc3736adf0f2c23730.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/be681963ddca5e8a4561c384eb897e78.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/cac60f55b33a136d502272b6fb17efb3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/172c4fb6027e5a502ed027045996dc75.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Thief's Gloves With Prints<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/32b6d7b568300d046ca42dd50fe1231f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d8f908a0e018d3afb85d439afd33542a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Thief's Steel Grappling Hook<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/e726ae4d6ca4bef83eb1c9060f5224dc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/8711a9954725e807ed73a6d1eedc8c6f.png"
                 ,
                 height="25"
               />
@@ -6711,7 +6711,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/3235b8b40aec8b9b36ad85bfba9f4a59.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a27b1fb14b768034097fcbf1ddbabe1a.png"
             height="20"
           />
           Swordplay
@@ -6722,14 +6722,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/5eef8fc994d7d7eac740f21718724bd8.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a10ec393dd59077d4bbb85278b1b45cc.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/3235b8b40aec8b9b36ad85bfba9f4a59.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a27b1fb14b768034097fcbf1ddbabe1a.png"
           />
         </p>
       </td>
@@ -6810,7 +6810,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/23a15e0fd1366b1b2fb0d8a04fd2e0e1.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f032633315cc5d2ac1f049b2af873993.png"
             height="20"
           />
           Quid Pro Quo
@@ -6821,14 +6821,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/6744fb7d75a3c6b11a51bffe6e94bc11.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ffd99f71235029e5349658ca583ebd8a.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/23a15e0fd1366b1b2fb0d8a04fd2e0e1.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f032633315cc5d2ac1f049b2af873993.png"
           />
         </p>
       </td>
@@ -6909,7 +6909,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/0d7cbd1ec7f374b0134158dc7bfb552d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/92866f0048b169355be21325371b3d4f.png"
             height="20"
           />
           Memories of the Past
@@ -6920,14 +6920,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/e10a379f972d1a2eb28d476221bfe186.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/55b7741410c61c24628b0b473538414f.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/0d7cbd1ec7f374b0134158dc7bfb552d.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/92866f0048b169355be21325371b3d4f.png"
           />
         </p>
       </td>
@@ -7008,7 +7008,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/5d8a86cf6061d3be5a4ec1ac5541e432.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ac205d141aff8177dfcbc52227a69420.png"
             height="20"
           />
           Collapsing Sky
@@ -7019,14 +7019,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/ffe77ce232e6af6b78dff7889a7d8908.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/718185089ccc9881d37525b342952fe2.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/5d8a86cf6061d3be5a4ec1ac5541e432.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/ac205d141aff8177dfcbc52227a69420.png"
           />
         </p>
       </td>
@@ -7107,7 +7107,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/50bf46889cf329a5f72208605ca934ae.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/247b2f6549a47972ad46b6587c68db56.png"
             height="20"
           />
           Indelible Promise
@@ -7118,14 +7118,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/738abb29c596804c3733283de2f152fc.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/de6643e1b68c55574427eb17d6446699.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/50bf46889cf329a5f72208605ca934ae.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/247b2f6549a47972ad46b6587c68db56.png"
           />
         </p>
       </td>
@@ -7206,7 +7206,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/69a86b874248eb3a0a47e1db3e96b3b9.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3be6eb9ee2639427208d1c902b46e2f9.png"
             height="20"
           />
           Hidden Shadow
@@ -7217,14 +7217,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/9182adaf6cf89f5e67ae9cc32df55390.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/64f61a60604e86dde5b2a09c65a5d21d.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/69a86b874248eb3a0a47e1db3e96b3b9.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3be6eb9ee2639427208d1c902b46e2f9.png"
           />
         </p>
       </td>
@@ -7305,7 +7305,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/bdb91715dc1fdd12e06c11b06dedd396.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5a3e5c7c3b0d801aa40e55527e166866.png"
             height="20"
           />
           Under the Blue Sky
@@ -7316,14 +7316,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/b887f8c61fec277a115fca2e32f6be91.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/e45f85eb79449d0138a849d16ab8160c.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/bdb91715dc1fdd12e06c11b06dedd396.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5a3e5c7c3b0d801aa40e55527e166866.png"
           />
         </p>
       </td>
@@ -7357,28 +7357,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/a649e2868144025753f3e348885cbf65.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/024b3f81c61d0092e8a390e02afa9702.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Thief's Myriad-Faced Mask<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/cac60f55b33a136d502272b6fb17efb3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/172c4fb6027e5a502ed027045996dc75.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐<br />
               Thief's Gloves With Prints<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/32b6d7b568300d046ca42dd50fe1231f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d8f908a0e018d3afb85d439afd33542a.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Thief's Steel Grappling Hook<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/234cf20edf63c7de9f7ec266773ad238.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/81b484fb832984f97cb05ca820e0ea0c.png"
                 ,
                 height="25"
               />
@@ -7434,7 +7434,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/69a86b874248eb3a0a47e1db3e96b3b9.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3be6eb9ee2639427208d1c902b46e2f9.png"
             height="20"
           />
           Hidden Shadow
@@ -7445,14 +7445,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/93b63e631339ba728d6a96254d4a0cd1.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6c500e2ea54a4b9261bf1c969123ce33.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/69a86b874248eb3a0a47e1db3e96b3b9.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3be6eb9ee2639427208d1c902b46e2f9.png"
           />
         </p>
       </td>
@@ -7533,7 +7533,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/520a8e573644ac180f45fcd010e74c70.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/820b4c84717505b8fcfe42a8d0efe702.png"
             height="20"
           />
           Void
@@ -7544,14 +7544,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/9ee60dd4b711ef2ac881a63dcaa37352.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/036868e65571e35d09858a599b5eb0fe.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/520a8e573644ac180f45fcd010e74c70.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/820b4c84717505b8fcfe42a8d0efe702.png"
           />
         </p>
       </td>
@@ -7632,7 +7632,7 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/24697d94cb31b63269fe1706e65d28fa.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2576f9320d4a11c89eb82f05424678dc.png"
             height="20"
           />
           Sagacity
@@ -7643,14 +7643,14 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/36a5d7e0e4c8dc6e2416977474771fe5.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/95a234ca9d05f8f5deef0787a327c741.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/24697d94cb31b63269fe1706e65d28fa.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2576f9320d4a11c89eb82f05424678dc.png"
           />
         </p>
       </td>
@@ -7684,28 +7684,28 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/b70543cd5bfeecfc3736adf0f2c23730.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/be681963ddca5e8a4561c384eb897e78.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/0a7f16ae71a3d84ceb0c8982bf6ece1f.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/01ada34f19b7ce1d425a10f2c83e3cf7.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/2c447dad7c29c33bb3af4ebbce1a8528.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2532faf14864675169f4c96684c3bf09.png"
                 ,
                 height="25"
               />
               <code>+0</code><br />
               ⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u38b3c/e726ae4d6ca4bef83eb1c9060f5224dc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/8711a9954725e807ed73a6d1eedc8c6f.png"
                 ,
                 height="25"
               />
