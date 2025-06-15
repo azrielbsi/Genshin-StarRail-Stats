@@ -141,7 +141,7 @@
   >
 </p>
 <h3 align="center">
-  🕒 Updated at <u>Jun 14, 2025 19:36 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 15, 2025 08:50 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -205,22 +205,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>5 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-06-14 09:38:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-06-15 09:50:35+08:00</b></td>
   </tr>
 </table>
 
@@ -247,7 +247,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>407</b></td>
+    <td align="center"><b>409</b></td>
   </tr>
   <tr>
     <td>
@@ -258,7 +258,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>260</b></td>
+    <td align="center"><b>261</b></td>
   </tr>
   <tr>
     <td>
@@ -269,7 +269,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>40</b></td>
+    <td align="center"><b>41</b></td>
   </tr>
   <tr>
     <td>
@@ -937,7 +937,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>670</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -948,19 +948,19 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>0</b> <code>(rate -100)</code></td>
+    <td align="center"><b>334150</b> <code>(rate 97)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
-      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
-      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Quests:
-      <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code
-      ><br />Mail: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Mail: <b>400</b> <code>(60%)</code><br />Events: <b>100</b>
+      <code>(15%)</code><br />Daily Activity: <b>60</b> <code>(9%)</code
+      ><br />Quests: <b>60</b> <code>(9%)</code><br />Adventure: <b>10</b>
+      <code>(1%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Imaginarium Theater: <b>0</b> <code>(0%)</code><br />Other:
+      <b>40</b> <code>(6%)</code><br />
     </td>
   </tr>
 </table>
@@ -5472,6 +5472,121 @@
       src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
       ,
       height="18"
+    /><b> Thoma</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+            ,
+            height="20"
+          />
+          Thoma
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ca0ea04c05d8994f0b7e836012e38563.png"
+            ,
+            height="20"
+          />
+          Beginner's Protector
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Tohma_Card.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon/67c7f6c8/ca0ea04c05d8994f0b7e836012e38563.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+                ,
+                height="18"
+              />
+              Pyro
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Beginner's Protector</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/pyro_35.webp"
+      ,
+      height="18"
     /><b> Xinyan</b>
   </summary>
   <br />
@@ -5622,22 +5737,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>1 x Energy Drink (sugar-free)</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2025-06-14 09:38:40+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2025-06-15 09:50:34+08:00</b></td>
   </tr>
 </table>
 
